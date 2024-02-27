@@ -1,16 +1,42 @@
-### Hi there 👋
+# Hi, I'm Fazyl!
 
-<!--
-**FazylAmirov/FazylAmirov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<a href="url" target="blank"><img align="center" src="https://cdn.dribbble.com/users/1107512/screenshots/3997677/_g.gif" height="300" /></a> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### :man_technologist: A little more about me...
+
+```javascript
+const amir = {
+    pronouns: ["He" | "Him"],
+    code: ["JavaScript"],
+    aboutMe: ["WebDev", "Snowboard" "Armwrestling"],
+    technologies: {
+        frontEnd: {
+            dev: ["HTML", "CSS", "JS", "React", "TypeScript", "Redux Toolkit", "React Hook Form", "MUI", "Sass/SCSS"],
+        },
+        backEnd: {
+            js: ["Node", "Express"],
+        },
+        devOps: ["Git", "Nginx"],
+        databases: ["Mongo"],
+        codingExperience: ["Codewars"],
+        tool: ["Figma"],
+    },
+    architecture: ["Single page application", "Feature-Sliced Design"],
+    currentFocus: ["Next step - middle in dev"],
+    funQuestion: ["You are front happy end developer?"],
+};
+```
+---
+
+### 💻 Codewars:
+
+![codewars](https://www.codewars.com/users/FazylAmirov/badges/large)
+
+---
+
+### :mailbox: Get in touch with me: 
+[![Telegram Badge](https://img.shields.io/badge/-Fazyl_Amirov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Fazyl_Amirov)
